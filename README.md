@@ -103,7 +103,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgments
 
 Special thanks to ISPAK for providing the parking lot data that made this project possible through their API.
-
-## Contact
-
-For inquiries or collaborations, feel free to reach out via [email@example.com](mailto:email@example.com).
